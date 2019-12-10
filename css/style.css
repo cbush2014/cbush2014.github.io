@@ -68,3 +68,12 @@ section > h1 {
   display: inline-block;
   margin: 0 5px;
 }
+
+img {
+  height: 480px;
+}
+
+.cover {
+  width: 640px;
+  object-fit: cover;
+}
